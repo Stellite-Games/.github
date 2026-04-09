@@ -14,3 +14,12 @@ We offer many custom solutions for game distribution and protection of your game
 
 ## Join our [Discord](https://discord.gg/stellite)
 
+## Official Links
+
+Join our Discord for more unblocked links, however you can try your luck with these links:
+
+- <https://stellite.games>
+- <https://cdn.jsdelivr.net/gh/Stellite-Games/cdn-build@master/logo.svg>
+- <https://storage.googleapis.com/science-tutor/logo.svg>
+- <https://books-api-query.s3.us-east-2.amazonaws.com/logo.svg>
+- <https://pub-a83c2e2eca084e1c9363042179f3f71b.r2.dev/logo.svg>
