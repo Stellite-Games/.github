@@ -12,4 +12,5 @@ This is what you've been waiting for. We can't wait to see what you create in ou
 
 We offer many custom solutions for game distribution and protection of your game/proxy links against filtering. We also provide APIs to other communities that align with our goals.
 
-## Join our [Discord](https://discord.gg/aaB7bPXrPn)
+## Join our [Discord](https://discord.gg/stellite)
+
